@@ -1,5 +1,7 @@
 const student = {
-  name: "John"
+  name: "John";
+	age: 27;
+city: "Delhi"
 };
 
 // Function to get all keys from the object
